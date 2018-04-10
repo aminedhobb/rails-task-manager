@@ -7,3 +7,9 @@
   padding: 20px;
   background-color: rgba(230,230,230,0.3)
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
